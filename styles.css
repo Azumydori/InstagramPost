@@ -1,0 +1,91 @@
+body {
+    background-color: black;
+}
+
+div {
+    box-sizing: border-box;
+    
+}
+
+div.container {
+    padding: 3px;
+    width: 600px;
+    margin: auto;
+    background: white;
+    height: auto;
+    font-family: 'Open Sans', sans-serif;
+}
+
+div.post {
+    background: white;
+    margin-top: 10px;
+}
+
+div.post-header {
+    padding: 5px;
+
+}
+
+div.post-header h3 {
+ margin: auto;
+}
+
+h5 {
+    margin: 0;
+    padding: 2px;
+    margin-bottom: 10px;
+
+   }
+
+div.profile img {
+display: inline-block;
+height: 35px;
+width:35px;
+float: left;
+padding: 5px;
+}
+
+div.dots img {
+    float: right;
+    margin: 0;
+}
+
+div.cat img {
+    width: 100%;
+    
+}
+
+div.icon-bookmark img {
+    height: 40px;
+    width: 40px;
+    float: right;
+    padding: 10px;
+}
+div.icon-heart img {
+    height: 40px;
+    width: 40px;
+    float: left;
+    padding: 5px;
+}
+div.icon-plane img {
+    height: 40px;
+    width: 40px;
+    float: left;
+    padding: 5px;
+}
+div.icon-bubble img {
+    height: 40px;
+    width: 40px;
+    float: left;
+    padding: 5px;
+}
+
+div.likes p {
+    
+    text-align:left;
+    margin-top: 60px;
+}
+div.post p {
+    padding: 40 px;
+    text-align: left;
+}
